@@ -1,0 +1,5 @@
+﻿  jw.cpp
+C:\Users\Amy\source\repos\with_jw\with_jw\jw.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Amy\source\repos\with_jw\with_jw\jw.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Amy\source\repos\with_jw\with_jw\jw.cpp(45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  with_jw.vcxproj -> C:\Users\Amy\source\repos\with_jw\Debug\with_jw.exe
